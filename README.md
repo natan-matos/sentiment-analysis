@@ -1,6 +1,3 @@
-Yelp NLP
-==============================
-
 # Yelp Review Sentiment Analysis: Nourishing Restaurant Insights
 
 ## Project Overview
